@@ -1,0 +1,23 @@
+let stockProductos = [
+     {id: 1, nombre: "cheesecake frutos rojos", tipo: "chess", cantidad: 1, desc: "Una torta para vos", precio: 3500, Tamaño: "Completa", img: './img/chess.jpg'},
+    {id: 2, nombre: "cheesecake frutos rojos", tipo: "chess", cantidad: 1, desc: "Una torta para vos", precio: 2500, Tamaño: "Media", img: './img/chess.jpg'},
+    {id: 3, nombre: "cheesecake frutos rojos", tipo: "chess", cantidad: 1, desc: "Una torta para vos", precio:  2500, Tamaño: "Porciòn", img: './img/chess.jpg'},
+    {id: 4, nombre: "delicia chocolate", tipo: "dl", cantidad: 1, desc: "Una torta para vos", precio: 3500, Tamaño: "Completa", img: './img/deliciachocolate.jpg'},
+    {id: 5, nombre: "delicia chocolate", tipo: "dl", cantidad: 1, desc: "Una torta para vos", precio:  2500, Tamaño: "Media", img: './img/deliciachocolate.jpg'},
+    {id: 6, nombre: "delicia chocolate", tipo: "dl", cantidad: 1, desc: "Una torta para vos", precio:  2500, Tamaño: "Porciòn", img: './img/deliciachocolate.jpg'},
+    {id: 7, nombre: "lemon pie", tipo: "Lm", cantidad: 1, desc: "Una torta para vos", precio: 3500, Tamaño: "Completa", img: './img/lemon.jpg'},
+    {id: 8, nombre: "lemon pie", tipo: "Lm", cantidad: 1, desc: "Una torta para vos", precio:  2500, Tamaño: "Media", img: './img/lemon.jpg'},
+    {id: 9, nombre: "lemon pie", tipo: "Lm", cantidad: 1, desc: "Una torta para vos", precio:  2500, Tamaño: "Porciòn", img: './img/lemon.jpg'},
+    {id: 10, nombre: "tarta de manzana", tipo: "tm", cantidad: 1, desc: "Una tarta para vos", precio: 3500, Tamaño: "Completa", img: './img/tortamanzana.jpg'},
+    {id: 11, nombre: "tarta de manzana", tipo: "tm", cantidad: 1,desc: "Una tarta para vos", precio:  2500, Tamaño: "Media", img: './img/tortamanzana.jpg'},
+    {id: 12, nombre: "tarta de manzana", tipo: "tm", cantidad: 1, desc: "Una tarta para vos", precio:  2500, Tamaño: "Porciòn", img: './img/tortamanzana.jpg'},
+    {id: 13, nombre: "tarta dulce de leche", tipo: "tdl", cantidad: 1, desc: "Una tarta para vos", precio: 3500, Tamaño: "Completa", img: './img/tarta.jpg'},
+    {id: 14, nombre: "tarta dulce de leche", tipo: "tdl", cantidad: 1, desc: "Una tarta para vos", precio:  2500, Tamaño: "Media", img: './img/tarta.jpg'},
+    {id: 15, nombre: "tarta dulce de leche", tipo: "tdl", cantidad: 1, desc: "Una tarta para vos", precio:  2500, Tamaño: "Porciòn", img: './img/tarta.jpg'},
+    {id: 16, nombre: "Torta marmolada", tipo: "tmr", cantidad: 1, desc: "Una torta para vos", precio: 3500, Tamaño: "Completa", img: './img/tortamarmolada.jpg'},
+    {id: 17, nombre: "Torta marmolada", tipo: "tmr", cantidad: 1, desc: "Una torta para vos", precio:  2500, Tamaño: "Media", img: './img/tortamarmolada.jpg'},
+    {id: 18, nombre: "Torta marmolada", tipo: "tmr", cantidad: 1, desc: "Una torta para vos", precio:  2500, Tamaño: "Porciòn", img: './img/tortamarmolada.jpg'},
+    {id: 19, nombre: "Waffles", tipo: "wf", cantidad: 1, desc: "Una waffle para vos", precio: 1900, Tamaño: "Completa", img: './img/waffles.jpg'},
+    {id: 20, nombre: "Waffles", tipo: "wf", cantidad: 1, desc: "Un waffle para vos", precio: 1200, Tamaño: "Porciòn", img: './img/waffles.jpg'},
+
+]
